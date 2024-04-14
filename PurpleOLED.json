@@ -19,25 +19,25 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#BF40BF"
+            "#FF00FF"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#BF40BF"
+            "#FF00FF"
         ],
         "TEXT_LINK": [
-            "#BF40BF"
+            "#FF00FF"
         ],
         "TEXT_DANGER": [
-            "#BF40BF"
+            "#FF00FF"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#BF40BF"
+            "#FF00FF"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
@@ -55,7 +55,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#BF40BF"
+            "#FF00FF"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -63,14 +63,11 @@
         "BACKGROUND_MOBILE_SECONDARY": [
             "#000000"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#922492"
-        ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#BF40BF55"
+            "#FF00FF55"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
@@ -91,7 +88,7 @@
             "#c4c4c4"
         ],
         "TEXT_LINK": [
-            "#BF40BF"
+            "#00FF00"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
@@ -101,25 +98,25 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#BF40BF",
-        "PRIMARY_500": "#BF40BF",
+        "PRIMARY_360": "#FF00FF",
+        "PRIMARY_500": "#FF00FF",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "BRAND_260": "#ffffff",
-        "BRAND_360": "#BF40BF",
-        "BRAND_500": "#BF40BF",
+        "BRAND_360": "#FF00FF",
+        "BRAND_500": "#FF00FF",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#BF40BF",
-        "YELLOW_300": "#BF40BF",
-        "ORANGE_345": "#BF40BF",
-        "GREEN_345": "#BF40BF",
-        "GREEN_360": "#BF40BF",
-        "RED_560" : "#BF40BF",
-        "RED_400": "#BF40BF"
+        "BLUE_345": "#FF00FF",
+        "YELLOW_300": "#FF00FF",
+        "ORANGE_345": "#FF00FF",
+        "GREEN_345": "#FF00FF",
+        "GREEN_360": "#FF00FF",
+        "RED_560" : "#FF00FF",
+        "RED_400": "#FF00FF"
     },
     "spec": 2,
     "background": {
@@ -127,7 +124,7 @@
     },
     "plus": {
 	"version": 0,
-	"unreadBadgeColor": "#BF40BF",
+	"unreadBadgeColor": "#FF00FF",
 	    "iconpack": "md3"
     }
 }
